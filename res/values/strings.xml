@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">JobSubmission</string>
+
+    <string name="tv_name">Name:</string>
+
+    <string name="tv_email">E-mail:</string>
+
+    <string name="tv_phone">Phone:</string>
+
+    <string name="tv_special">Why I am Special?</string>
+
+    <string name="tv_project">Projects:</string>
+    
+    <string name="tv_url">URL:</string>
+
+    <string name="b_submit">Submit</string>
+
+</resources>
